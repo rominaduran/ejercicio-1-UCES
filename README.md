@@ -5,5 +5,6 @@ Este repositorio es parte de un ejercicio de la Unidad 2 de la Diplomatura en Hu
 ## Instrucciones
 
 1. Crear un repositorio.
-2. Subir un archivo.
-3. Subir los cambios al repositorio remoto.
+2. Clonarlo en una carpeta local.
+3. Subir un archivo a la carpeta local.
+4. Subir los cambios al repositorio remoto.
